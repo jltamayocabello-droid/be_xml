@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libros>
+    <libro>
+        <titulo>XML para principiantes</titulo>
+        <autor>Marcela Olivares</autor>
+        <anio>2026</anio>
+    </libro>
+</libros>
