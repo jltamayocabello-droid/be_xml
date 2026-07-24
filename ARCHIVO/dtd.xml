@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (libro*, editorial)>
+    <!ELEMENT libro (titulo, autor)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT autor (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ATTLIST libro id ID #REQUIRED>
+    <!ENTITY copyright "2025 Ejemplo Editorial">
+]>
+
+<biblioteca>
+    <libro id="L1">
+        <titulo>Introducción a XML</titulo>
+        <autor>Maria Luisa</autor>
+    </libro>
+     <libro id="L2">
+        <titulo>Introducción a JavaScript</titulo>
+        <autor>Candelaria Perez</autor>
+    </libro>
+    <editorial>&copyright;</editorial>
+</biblioteca>
