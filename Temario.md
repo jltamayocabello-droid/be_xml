@@ -9,3 +9,13 @@
     c. Atributos: sintaxis y uso adecuado
     d. Comentarios ( <!-- Comentario --> )
     e. Entidades predefinidas y escape de caracteres (por ejemplo, &amp; , &lt; , &gt; )
+
+## 3. Validación y definiciones de tipo
+    a. DTD (Document Type Definition)
+        i. Declaración interna v/s externa
+        ii. Elementos, atributos y entidades en DTD
+    b. XSD (XML Schema Definition)
+        i. Estructura básica de un esquema (elementos xs:element , tipos simples y complejos)
+        ii. Restricciones de datos (tipos de datos primitivos, patrones y rangos)
+        iii. Referencias e importación de esquemas
+    c. Diferencias clave entre DTD y XSD
