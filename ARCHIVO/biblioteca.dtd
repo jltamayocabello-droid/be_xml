@@ -1,0 +1,7 @@
+<!ELEMENT biblioteca (libro*, editorial)>
+<!ELEMENT libro (titulo, autor)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ATTLIST libro id ID #REQUIRED>
+<!ENTITY copyright "2025 Ejemplo Editorial">
