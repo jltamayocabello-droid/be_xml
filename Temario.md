@@ -19,3 +19,10 @@
         ii. Restricciones de datos (tipos de datos primitivos, patrones y rangos)
         iii. Referencias e importación de esquemas
     c. Diferencias clave entre DTD y XSD
+
+## 4. Espacios de nombres (Namespaces)
+    a. Concepto y motivación (evitar colisiones de nombres)
+    b. Declaración de espacios de nombres (atributos xmlns y prefijos)
+    c. Uso de múltiples espacios de nombres en un solo documento
+    d. Ejemplos prácticos de combinación de elementos de distintos esquemas
+
