@@ -6,5 +6,6 @@
         <titulo>XML para principiantes</titulo>
         <autor>Marcela Olivares</autor>
         <anio>2026</anio>
+        <datos>10 &gt; 9</datos>
     </libro>
 </libros>
