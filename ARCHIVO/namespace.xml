@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca xmlns:lib="http://ejemplo.com/libros">
+    <lib:libro>
+        <lib:titulo>Cien Años de Soledad</lib:titulo>
+        <lib:autor>Gabriel García Marquez</lib:autor>
+    </lib:libro>
+
+</biblioteca>
