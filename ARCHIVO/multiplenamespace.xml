@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<documento xmlns:lib="http://ejemplo.com/libros" xmlns:pers="http://ejemplo.com/personas">
+    <lib:libro>
+        <lib:titulo>Cien Años de Soledad</lib:titulo>
+    </lib:libro>
+    <pers:persona>
+        <pers:nombre>Esteban Dido</pers:nombre>
+    </pers:persona>
+</documento>
