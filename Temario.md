@@ -26,3 +26,13 @@
     c. Uso de múltiples espacios de nombres en un solo documento
     d. Ejemplos prácticos de combinación de elementos de distintos esquemas
 
+## 5. Consulta y transformación de XML
+    a. XPath
+        i. Sintaxis básica (ejes, nodos y predicados)
+        ii. Selección de nodos (por etiqueta, atributo, posición)
+        iii. Funciones comunes (string(),numer(), boolean())
+    b. XSLT (eXtensible Stylesheet Language Transformations)
+        i. Estructura de una hoja de estilo XSLT ( <xsl:template>, <xsl:value-of>, <xsl:for-each>)
+        ii. Plantillas, coincidencia de patrones y prioridad
+        iii. Ejemplo práctico: convertir XML a HTML
+
