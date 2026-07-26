@@ -9,4 +9,12 @@
         <titulo>La Guerra de Las Galaxias</titulo>
         <autor>Anakin</autor>
     </libro>
+    <libro id="3">
+        <titulo>La Naranja Mecanica</titulo>
+        <autor>Alex</autor>
+    </libro>
+     <libro id="4">
+        <titulo>1984</titulo>
+        <autor>Orwell</autor>
+    </libro>
 </biblioteca>
