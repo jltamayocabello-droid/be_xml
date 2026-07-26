@@ -36,3 +36,9 @@
         ii. Plantillas, coincidencia de patrones y prioridad
         iii. Ejemplo práctico: convertir XML a HTML
 
+## 6. Procesamiento y herramientas
+    a. Análisis de XML en diferentes lenguajes (p. ej., Java con JAXP, Python con ElementTree)
+    b. Validación automática usando herramientas (o línea de comandos: xmllint , editores con soporte integrado)
+    c. Editores recomendados (VS Code, Oxygen XML Editor, Notepad++)
+    d. Buenas prácticas de indentación y estilos de documento
+    e. Integración en flujos de automatización (por ejemplo, validación previa a despliegues)
