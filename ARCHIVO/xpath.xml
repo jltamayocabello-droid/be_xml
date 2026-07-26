@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <libro id="1">
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+    </libro>
+    <libro id="2">
+        <titulo>La Guerra de Las Galaxias</titulo>
+        <autor>Anakin</autor>
+    </libro>
+</biblioteca>
